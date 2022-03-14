@@ -1,0 +1,3 @@
+print("kyle kenny tan")
+print("brgy,uno,buenavista marinduque")
+print("may 23, 2001")
